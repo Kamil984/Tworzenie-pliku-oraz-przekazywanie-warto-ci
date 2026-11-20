@@ -1,1 +1,0 @@
-# Tworzenie-pliku-oraz-przekazywanie-warto-ci
